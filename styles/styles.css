@@ -3,9 +3,11 @@
     background-repeat: no-repeat;
     background-size: contain;
     height: 100%;
-    background-position: center;
+    background-position: top
+    
 }
 
 body, html{
     height: 100%;
+    background-color: #000000;
 }
